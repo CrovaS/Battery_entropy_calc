@@ -1,4 +1,4 @@
-# Fork of YOLOv5, Basic access of object detection
+# Basic access of YOLOv5, object detection
 
 ## 1. What is optimizer and learning rate?
 
